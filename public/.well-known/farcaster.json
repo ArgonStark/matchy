@@ -7,9 +7,9 @@
   "miniapp": {
     "version": "1",
     "name": "Matchy",
-    "iconUrl": "https://your-domain.com/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/ArgonStark/matchy/refs/heads/main/public/logo.png",
     "homeUrl": "https://your-domain.com",
-    "splashImageUrl": "https://your-domain.com/logo.png",
+    "splashImageUrl": "https://raw.githubusercontent.com/ArgonStark/matchy/refs/heads/main/public/logo.png",
     "splashBackgroundColor": "#0891B2",
     "primaryCategory": "social"
   }
