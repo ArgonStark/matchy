@@ -209,3 +209,4 @@ If you see the image, the URL works! ✅
 
 But for production, it's better to use your own domain. Start with GitHub for development, then switch to your domain after deployment. The images in your `public/` folder will automatically be available at your domain once deployed.
 
+

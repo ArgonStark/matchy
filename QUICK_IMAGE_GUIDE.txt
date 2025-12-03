@@ -61,3 +61,4 @@ If images are missing, the app will show fallback placeholders
 
 ═══════════════════════════════════════════════════════════════
 
+

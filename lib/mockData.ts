@@ -340,3 +340,4 @@ export const mockCategories: Category[] = [
 // Current user for profile page
 export const currentUser = mockUsers.find(u => u.id === '8')!;
 
+

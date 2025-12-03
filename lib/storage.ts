@@ -28,3 +28,23 @@ export const getDefaultProfile = (): ExtendedProfile => ({
   location: { lat: 37.7749, lng: -122.4194 },
 });
 
+export const getSearchPreferences = (): string[] => {
+  if (typeof window === 'undefined') return [];
+  try {
+    const stored = localStorage.getItem('matchy_search_categories');
+    return stored ? JSON.parse(stored) : [];
+  } catch {
+    return [];
+  }
+};
+
+export const saveSearchPreferences = (categories: string[]): void => {
+  if (typeof window === 'undefined') return;
+  try {
+    localStorage.setItem('matchy_search_categories', JSON.stringify(categories));
+  } catch (error) {
+    console.error('Failed to save search preferences:', error);
+  }
+};
+
+
