@@ -8,7 +8,7 @@
     "version": "1",
     "name": "Matchy",
     "iconUrl": "https://raw.githubusercontent.com/ArgonStark/matchy/refs/heads/main/public/logo.png",
-    "homeUrl": "https://your-domain.com",
+    "homeUrl": "https://matchy-two.vercel.app/",
     "splashImageUrl": "https://raw.githubusercontent.com/ArgonStark/matchy/refs/heads/main/public/logo.png",
     "splashBackgroundColor": "#0891B2",
     "primaryCategory": "social"
