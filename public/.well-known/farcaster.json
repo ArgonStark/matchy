@@ -1,9 +1,9 @@
 {
-  "accountAssociation": {
-    "header": "placeholder",
-    "payload": "placeholder",
-    "signature": "placeholder"
-  },
+     "accountAssociation": {
+     "header": "generated-header-value",
+     "payload": "generated-payload-value",
+     "signature": "generated-signature-value"
+   },
   "miniapp": {
     "version": "1",
     "name": "Matchy",
