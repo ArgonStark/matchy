@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "placeholder",
+    "payload": "placeholder",
+    "signature": "placeholder"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Matchy",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "homeUrl": "https://your-domain.com",
+    "splashImageUrl": "https://your-domain.com/logo.png",
+    "splashBackgroundColor": "#0891B2",
+    "primaryCategory": "social"
+  }
+}
+
